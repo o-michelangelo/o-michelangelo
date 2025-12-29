@@ -1,27 +1,22 @@
-# Olá 👋, eu sou o Michelangelo — Desenvolvedor Full‑Stack Web
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&lines=Olá+%F0%9F%91%8B+Eu+sou+Michelangelo.;Desenvolvedor+Full-Stack+Web+%7C+React+%2F+Node+%2F+TypeScript" alt="typing" />
-</p>
+Sou o Michelangelo — Desenvolvedor Full‑Stack Web
 
 <p align="left">
   <img alt="avatar" src="./assets/avatar.png" width="120" style="border-radius:50%; margin-right:16px" />
-  <strong>Construo aplicações web escaláveis e agradáveis ao usuário — do protótipo ao deploy.</strong>
+  <strong>Desenvolvo aplicações web escaláveis de forma rápida e que funcionam</strong>
 </p>
 
 ---
 
 ## Sobre mim
-- 🧑‍💻 Sou desenvolvedor Full‑Stack Web com foco em aplicações modernas (SPA / SSR / APIs).
-- ⚡ Forte prática em: JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, Docker.
-- 🛠️ Gosto de código limpo, testes automatizados, performance e boas práticas de arquitetura.
-- 🎯 Busco oportunidades para impactar produtos reais e aprender com times experientes.
-
+- Forte prática em: JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MondoDb.
+- Formado em eletrônica, desenvolvo aplicações que se comuniquem perfeitamente ao hardware, mantendo em 100% a rapidez da aplicação.
+- Dê-me um problema, e eu o resolverei o mais rápido possível e com a melhor qualidade.
+  
 ---
 
 ## Destaque visual (use GIFs para impacto)
 <p align="center">
-  <!-- Substitua os GIFs em ./assets pelos seus demos reais -->
+  <!-- Substitua os GIFs em ./assets pelos seus emos reais -->
   <img src="./assets/demo-1.gif" alt="demo 1" width="360" style="margin: 8px; border-radius:8px" />
   <img src="./assets/demo-2.gif" alt="demo 2" width="360" style="margin: 8px; border-radius:8px" />
 </p>
@@ -69,36 +64,14 @@ Dica: grave pequenos GIFs (20–30s) com 60% do tamanho do app (ex: 720×405) mo
 ---
 
 ## Como me contatar
-- 📫 Email: SEU_EMAIL@exemplo.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/SEU_PERFIL
-- 🌐 Portfólio: https://seu-portfolio.exemplo
-- 📄 CV: https://seu-portfolio.exemplo/resume.pdf
+Email: michelangeloaraujo77@gmail.com
+LinkedIn: www.linkedin.com/in/michel-ângelo
+
+## Fazer download de meu currículo
+<button> Currículo e Projetos </button>
 
 ---
 
 ## Quero trabalhar com você
 Se procura um dev Full‑Stack que entrega código testado, com foco em UX e deploy automatizado — vamos conversar!  
 Adoro desafios em que eu possa melhorar performance, arquitetura e a experiência do usuário.
-
----
-
-## Como personalizar este README (passo a passo rápido)
-1. Substitua "o-michelangelo" nas URLs das imagens do GitHub Stats se necessário.
-2. Troque os placeholders (SEU_EMAIL, LinkedIn, portfólio) pelas suas URLs reais.
-3. Adicione seu avatar em ./assets/avatar.png (120×120 recomendado).
-4. Gere GIFs de demo e coloque em ./assets (nomes usados: demo-1.gif, demo-2.gif, proj1.gif).
-   - Linux: use Peek; Windows: ScreenToGif; macOS: Kap or LICEcap.
-5. Se quiser a data automática de "Última atualização", adicione o workflow (se precisar, eu gero o arquivo .github/workflows/update-readme.yml para você).
-
----
-
-Última atualização: <!--LAST_UPDATE-->
-
----
-
-Se quiser, eu:
-- Preencho esse README com seus projetos reais (me passe links e descrições).
-- Gero o workflow para atualizar automaticamente a data.
-- Traduza para inglês e crio uma versão curta para email/LinkedIn.
-
-Quer que eu personalize agora com seus projetos e links?  
