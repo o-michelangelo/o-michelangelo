@@ -1,9 +1,6 @@
-Sou o Michelangelo — Desenvolvedor Full‑Stack Web
+# Sou o Michelangelo — Desenvolvedor Full‑Stack Web
 
-<p align="left">
-  <img alt="avatar" src="./assets/avatar.png" width="120" style="border-radius:50%; margin-right:16px" />
-  <strong>Desenvolvo aplicações web escaláveis de forma rápida e que funcionam</strong>
-</p>
+<strong>Desenvolvo aplicações web e resolvo seus problemas empresariais</strong>
 
 ---
 
