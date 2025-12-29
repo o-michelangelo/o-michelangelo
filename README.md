@@ -1,3 +1,8 @@
+<style>
+  * {
+    text-align: center;
+  }
+</style>
 # Sou o Michelangelo — Desenvolvedor Full‑Stack Web
 
 <strong>Desenvolvo aplicações web e resolvo seus problemas empresariais</strong>
@@ -65,7 +70,7 @@ Email: michelangeloaraujo77@gmail.com
 LinkedIn: www.linkedin.com/in/michel-ângelo
 
 ## Fazer download de meu currículo
-<button> Currículo e Projetos </button>
+<button type="button"> Currículo e Projetos </button>
 
 ---
 
