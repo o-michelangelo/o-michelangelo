@@ -6,7 +6,7 @@
 
 ## Sobre mim
 - Forte prática em: JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MondoDb.
-- Formado em eletrônica, desenvolvo aplicações que se comuniquem perfeitamente ao hardware, mantendo em 100% a rapidez da aplicação.
+- Formado em eletrônica, desenvolvo aplicações que se comuniquem perfeitamente ao hardware, melhorando em 100% o tempo de resposta do programa.
 - Dê-me um problema, e eu o resolverei o mais rápido possível e com a melhor qualidade.
   
 ---
